@@ -1,11 +1,11 @@
 # SaaS Starter Stack
 > A curated list of free and affordable tools for building a SaaS.
 
-Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](#contribute).
+Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#%EF%B8%8F-contribute).
 
 ## Table of Contents
 - [Code](#code)
-- [Boilerplate Starter Kits](#boilerplate-starter-kits)
+- [Boilerplate Starter Kits](#boilerplates-starter-kits)
 - [Databases](#databases)
 - [Hosting](#hosting)
 - [Subscriptions & Payments](#subscriptions--payments)
@@ -38,6 +38,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Boilerplate Starter Kits
 - [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
+- [Code Genie](https://codegenie.codes/) - Production ready Full Stack AWS Serverless code generator based on your data model (or description with AI).
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate to rapidly build and launch your unicorn Saas.
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components for Payments, Admin, Blog, SEO and more.
 - [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for launching web apps in hours.
